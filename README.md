@@ -6,7 +6,13 @@ Python + EasyOCR on backend, Streamlit on frontend, and gpt-oss:20b for simplify
 
 > ⚠️ **Disclaimer:** For education only. Not medical advice. Always consult doctor or pharmacist. No dose suggestion, no prescription.
 
-🔗 Live Demo: https://medguide-ai.streamlit.app/
+# 💊 MedGuide AI — Medicine Label & Safety Assistant
+
+### 🔴 LIVE APP LINK: https://med-guide-ai.streamlit.app
+
+> Click above link to see live demo
+
+A local web app that keeps medicine label info in one place.
 
 ### Features
 
