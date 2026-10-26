@@ -1,0 +1,18 @@
+{
+  "paracetamol": {
+    "name": "Paracetamol 500mg",
+    "generic": "Paracetamol / Acetaminophen",
+    "strength": "500mg",
+    "use": "Fever, mild to moderate pain — as listed on leaflet",
+    "storage": "Store in cool, dry place below 30°C",
+    "warning": "Do not exceed leaflet dose. If allergic, seek pharmacist advice."
+  },
+  "cetirizine": {
+    "name": "Cetirizine 10mg",
+    "generic": "Cetirizine",
+    "strength": "10mg",
+    "use": "Allergy symptoms like sneezing, runny nose",
+    "storage": "Room temperature, away from moisture",
+    "warning": "May cause sleepiness. Avoid driving if drowsy."
+  }
+}
